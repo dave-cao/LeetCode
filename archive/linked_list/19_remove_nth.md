@@ -2,6 +2,8 @@
 tag: code_problem
 time_elapsed: 28
 difficulty: medium
+created: 2025-04-05T12:22
+updated: 2025-12-14T11:49
 ---
 
 # 19 - Remove Nth Node From End of List

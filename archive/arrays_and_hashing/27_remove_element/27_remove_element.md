@@ -3,7 +3,7 @@ tag: code_problem
 time_elapsed: 18
 difficulty: easy
 created: 2023-12-22T12:34
-updated: 2023-12-22T12:34
+updated: 2025-12-14T11:49
 ---
 
 # 27 - Remove Element

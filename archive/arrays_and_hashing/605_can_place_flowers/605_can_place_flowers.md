@@ -3,7 +3,7 @@ tag: code_problem
 time_elapsed: 26
 difficulty: easy
 created: 2023-12-24T13:35
-updated: 2023-12-24T14:15
+updated: 2025-12-14T11:49
 ---
 
 # 605 - Can Place Flowers

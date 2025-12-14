@@ -4,7 +4,7 @@ difficulty: hard
 time_elapsed: 120
 process: tutorial
 created: 2024-01-20T12:03
-updated: 2024-01-20T13:30
+updated: 2025-12-14T11:49
 ---
 
 # [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)

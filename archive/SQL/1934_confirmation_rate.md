@@ -1,3 +1,7 @@
+---
+created: 2025-04-05T12:22
+updated: 2025-12-14T11:49
+---
 ```sql
 SELECT sign.user_id,
 ROUND(SUM(CASE WHEN con.action = "confirmed" THEN 1 ELSE 0 END) / COUNT(CASE WHEN con.action IS NULL THEN 1 ELSE con.action END), 2) as confirmation_rate

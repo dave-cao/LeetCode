@@ -4,7 +4,7 @@ process: star
 time_elapsed: 17
 difficulty: easy
 created: 2023-12-25T00:41
-updated: 2023-12-25T01:14
+updated: 2025-12-14T11:49
 ---
 
 # 496 - Next Greater Element I

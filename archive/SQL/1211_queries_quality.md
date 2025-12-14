@@ -1,3 +1,7 @@
+---
+created: 2025-04-05T12:22
+updated: 2025-12-14T11:49
+---
 ```sql
 SELECT query_name, ROUND(SUM(rating / position) / COUNT(query_name), 2) AS quality, 
 ROUND(SUM(CASE WHEN rating < 3 THEN 1 ELSE 0 END) / COUNT(query_name) * 100, 2) AS poor_query_percentage

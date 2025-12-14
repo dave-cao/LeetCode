@@ -1,3 +1,7 @@
+---
+created: 2025-04-05T12:22
+updated: 2025-12-14T11:49
+---
 # Documentation of Process
 
 *Time Taken: 10 min 45 sec*

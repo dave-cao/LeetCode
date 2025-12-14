@@ -1,6 +1,6 @@
 ---
 created: 2023-12-13T17:15
-updated: 2023-12-18T14:58
+updated: 2025-12-14T11:49
 tag: code_problem
 time_elapsed: 6
 difficulty: easy

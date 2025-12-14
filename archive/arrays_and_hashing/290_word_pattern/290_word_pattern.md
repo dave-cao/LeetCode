@@ -3,7 +3,7 @@ tag: code_problem
 time_elapsed: 28
 difficulty: easy
 created: 2024-01-05T13:23
-updated: 2024-01-05T14:25
+updated: 2025-12-14T11:49
 ---
 
 # 290 - Word Pattern

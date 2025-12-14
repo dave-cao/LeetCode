@@ -3,7 +3,7 @@ tag: code_problem
 time_elapsed: 33
 difficulty: medium
 created: 2024-01-13T16:51
-updated: 2024-01-13T17:39
+updated: 2025-12-14T11:49
 ---
 
 # 150 - Evaluate Reverse Polish Notation

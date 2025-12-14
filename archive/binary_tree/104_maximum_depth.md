@@ -2,6 +2,8 @@
 tag: code_problem
 difficulty: easy
 time_elapsed: 10
+created: 2025-04-05T12:22
+updated: 2025-12-14T11:49
 ---
 
 # 104 - Maximum Depth of Binary Tree

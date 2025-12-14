@@ -3,7 +3,7 @@ tag: code_problem
 time_elapsed: 80
 difficulty: hard
 created: 2023-12-18T11:40
-updated: 2023-12-19T02:57
+updated: 2025-12-14T11:49
 ---
 
 # 42 - Trapping Rain Water

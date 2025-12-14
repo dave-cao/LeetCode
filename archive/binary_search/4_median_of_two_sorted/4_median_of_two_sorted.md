@@ -3,7 +3,7 @@ tag: code_problem
 difficulty: medium
 time_elapsed: 30
 created: 2024-01-28T19:59
-updated: 2024-01-28T19:59
+updated: 2025-12-14T11:49
 ---
 
 # [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)

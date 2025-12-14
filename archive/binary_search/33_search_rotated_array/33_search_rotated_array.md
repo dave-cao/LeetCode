@@ -2,6 +2,8 @@
 tag: code_problem
 difficulty: medium
 time_elapsed: 32
+created: 2025-04-05T12:22
+updated: 2025-12-14T11:49
 ---
 
 # [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)

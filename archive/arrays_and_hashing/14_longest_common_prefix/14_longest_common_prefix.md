@@ -3,7 +3,7 @@ tag: code_problem
 time_elapsed: 18
 difficulty: easy
 created: 2023-12-21T19:55
-updated: 2023-12-21T19:55
+updated: 2025-12-14T11:49
 ---
 
 # 14 - Longest Common Prefix

@@ -3,7 +3,7 @@ tag: code_problem
 time_elapsed: 47
 difficulty: medium
 created: 2023-12-14T16:14
-updated: 2023-12-18T14:58
+updated: 2025-12-14T11:49
 ---
 
 # 695 - Encode and Decode Strings

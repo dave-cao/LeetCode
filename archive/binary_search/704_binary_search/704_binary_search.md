@@ -3,7 +3,7 @@ tag: code_problem
 difficulty: easy
 time_elapsed: 5
 created: 2024-01-20T13:37
-updated: 2024-01-20T13:37
+updated: 2025-12-14T11:49
 ---
 
 # [704. Binary Search](https://leetcode.com/problems/binary-search/)

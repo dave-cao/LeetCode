@@ -2,6 +2,8 @@
 tag: code_problem
 time_elapsed: 19
 difficulty: medium
+created: 2025-04-05T12:22
+updated: 2025-12-14T11:49
 ---
 
 # 235 - Lowest Common Ancestor of a Binary Search Tree

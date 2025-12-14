@@ -4,7 +4,7 @@ difficulty: medium
 time_elapsed: 50
 process: tutorial
 created: 2024-01-11T20:45
-updated: 2024-01-11T22:12
+updated: 2025-12-14T11:49
 ---
 
 # 424 - Longest Repeating Character Replacement

@@ -1,3 +1,7 @@
+---
+created: 2025-04-05T12:22
+updated: 2025-12-14T11:49
+---
 ```sql
 SELECT DATE_FORMAT(trans_date, "%Y-%m") AS month, country, COUNT(amount) AS trans_count, 
 (SELECT SUM(CASE WHEN state = "approved" THEN 1 ELSE 0 END)) AS approved_count,

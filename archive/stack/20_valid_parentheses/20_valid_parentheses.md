@@ -3,7 +3,7 @@ tag: code_problem
 difficulty: easy
 time_elapsed: 15
 created: 2024-01-13T15:08
-updated: 2024-01-13T15:08
+updated: 2025-12-14T11:49
 ---
 
 # 20 - Valid Parentheses

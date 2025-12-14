@@ -3,7 +3,7 @@ tag: code_problem
 time_elapsed: 39
 difficulty: medium
 created: 2023-12-15T08:10
-updated: 2023-12-18T14:58
+updated: 2025-12-14T11:49
 ---
 
 # 128 - Longest Consecutive Sequence

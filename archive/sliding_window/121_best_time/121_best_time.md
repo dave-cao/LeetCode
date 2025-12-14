@@ -3,7 +3,7 @@ tag: code_problem
 time_elapsed: 49
 difficulty: easy
 created: 2024-01-10T14:24
-updated: 2024-01-10T17:14
+updated: 2025-12-14T11:49
 ---
 
 # 121 Best Time to Buy and Sell Stock

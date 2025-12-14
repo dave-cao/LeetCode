@@ -3,7 +3,7 @@ tag: code_problem
 time_elapsed: 9
 difficulty: easy
 created: 2023-12-25T00:21
-updated: 2023-12-25T00:21
+updated: 2025-12-14T11:49
 ---
 
 # 169 - Majority Element

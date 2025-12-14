@@ -3,7 +3,7 @@ tag: code_problem
 time_elapsed: 16
 difficulty: easy
 created: 2023-12-30T13:56
-updated: 2023-12-30T17:34
+updated: 2025-12-14T11:49
 process: tutorial
 ---
 
