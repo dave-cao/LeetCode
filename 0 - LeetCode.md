@@ -1,6 +1,6 @@
 ---
 created: 2023-12-14T00:03
-updated: 2024-01-05T12:59
+updated: 2025-12-14T11:20
 ---
 
 # Code Problems Database
@@ -15,7 +15,7 @@ TABLE WITHOUT ID
 	difficulty as Difficulty,
 	dateformat(created, "MMM dd, yyyy") as Date
 FROM #code_problem 
-WHERE !contains(file.path, "Templates")
+WHERE !contains(file.path, "Templates") AND !contains(file.path, "archive")
 SORT created DESC
 ```
 
