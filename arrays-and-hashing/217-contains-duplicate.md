@@ -1,11 +1,12 @@
 ---
 tag: code_problem
-time_elapsed: 4
+time_elapsed: 10
 difficulty: easy
 category: arrays-and-hashing
 created: 2025-12-14T17:02
-updated: 2025-12-14T17:02
+updated: 2025-12-14T21:28
 ---
+
 
 # 217. Contains Duplicate
 
