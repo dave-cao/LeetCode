@@ -1,13 +1,14 @@
 ---
-tag: code_problem
+tags:
+  - leetcode
+  - neetcode150
 time_elapsed: 10
 difficulty: easy
 category: arrays-and-hashing
+link: https://leetcode.com/problems/contains-duplicate/
 created: 2025-12-14T17:02
-updated: 2025-12-14T21:28
+updated: 2025-12-15T20:27
 ---
-
-
 # 217. Contains Duplicate
 
 ## Notes
@@ -19,6 +20,7 @@ I went a step further and introduced a hashmap to this problem. Basically create
 
 This gives us a time complexity of $O(n)$ and a space complexity of $O(n)$
 
+## Code
 ```python
 class Solution:
 	def containsDuplicate(self, nums: List[int]) -> bool:

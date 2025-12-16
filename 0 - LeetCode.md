@@ -1,6 +1,6 @@
 ---
 created: 2023-12-14T00:03
-updated: 2025-12-14T12:27
+updated: 2025-12-15T20:28
 ---
 
 # Code Problems Database
@@ -20,23 +20,22 @@ WHERE
   !contains(file.path, "Templates")
   AND !contains(file.path, "archive")
   AND (
-    contains(file.tags, "#code_problem")
-    OR tag = "code_problem"
-    OR contains(tags, "code_problem")
+    contains(file.tags, "#leetcode")
+    OR tag = "leetcode"
+    OR contains(tags, "leetcode")
   )
 FLATTEN default(created, file.ctime) as created
 GROUP BY true
 ```
 
 ## List of all coding problems
-
 ```dataview
 TABLE WITHOUT ID
   file.link as Completed,
   time_elapsed as Time,
   difficulty as Difficulty,
   dateformat(created, "MMM dd, yyyy") as Date
-FROM #code_problem
+FROM #leetcode
 WHERE !contains(file.path, "Templates")
 AND !contains(file.path, "archive")
 SORT created DESC
