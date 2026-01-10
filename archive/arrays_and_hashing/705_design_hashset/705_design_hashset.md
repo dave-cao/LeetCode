@@ -3,7 +3,7 @@ tag: code_problem
 difficulty: easy
 time_elapsed: 8
 created: 2024-01-10T13:00
-updated: 2025-12-14T11:49
+updated: 2026-01-10T12:56
 ---
 
 # 705 - Design HashSet

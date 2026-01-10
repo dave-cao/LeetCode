@@ -7,7 +7,7 @@ difficulty: easy
 category: arrays-and-hashing
 link: https://leetcode.com/problems/contains-duplicate/
 created: 2025-12-14T17:02
-updated: 2025-12-15T20:27
+updated: 2026-01-10T12:56
 ---
 # 217. Contains Duplicate
 

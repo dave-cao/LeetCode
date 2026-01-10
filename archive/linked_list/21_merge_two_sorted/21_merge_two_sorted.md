@@ -3,7 +3,7 @@ tag: code_problem
 time_elapsed: 20
 difficulty: easy
 created: 2024-02-11T16:42
-updated: 2025-12-14T11:49
+updated: 2026-01-10T12:56
 ---
 
 # 21 - Merge Two Sorted Lists

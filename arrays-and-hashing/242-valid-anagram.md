@@ -7,7 +7,7 @@ difficulty: easy
 category: arrays-and-hashing
 link: https://leetcode.com/problems/valid-anagram/description/
 created: 2025-12-17T00:27
-updated: 2025-12-17T00:27
+updated: 2026-01-10T12:56
 ---
 # 242. Valid Anagram
 

@@ -4,7 +4,7 @@ difficulty: medium
 time_elapsed: 36
 process: tutorial
 created: 2024-01-14T09:22
-updated: 2025-12-14T11:49
+updated: 2026-01-10T12:56
 ---
 
 # 853 - Car Fleet

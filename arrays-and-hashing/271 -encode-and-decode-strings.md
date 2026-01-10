@@ -7,7 +7,7 @@ difficulty: medium
 category: arrays-and-hashing
 link: https://leetcode.com/problems/encode-and-decode-strings/description/
 created: 2026-01-08T07:25
-updated: 2026-01-08T07:26
+updated: 2026-01-10T12:56
 ---
 # 271. Encode and Decode Strings
 

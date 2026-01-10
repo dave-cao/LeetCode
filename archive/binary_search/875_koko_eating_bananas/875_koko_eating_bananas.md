@@ -4,7 +4,7 @@ time_elapsed: 15
 process: tutorial
 difficulty: medium
 created: 2025-04-05T12:22
-updated: 2025-12-14T11:49
+updated: 2026-01-10T12:56
 ---
 
 # 875. Koko Eating Bananas
