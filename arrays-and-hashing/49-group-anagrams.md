@@ -7,7 +7,7 @@ difficulty: medium
 category: arrays-and-hashing
 link: https://leetcode.com/problems/group-anagrams/
 created: 2025-12-29T02:37
-updated: 2025-12-29T02:42
+updated: 2026-01-10T12:56
 ---
 # 49. Group Anagrams
 

@@ -7,7 +7,7 @@ difficulty: medium
 category: arrays-and-hashing
 link: https://leetcode.com/problems/top-k-frequent-elements/description/
 created: 2026-01-06T00:58
-updated: 2026-01-06T01:19
+updated: 2026-01-10T12:56
 ---
 # 347. Top K Frequent Elements
 

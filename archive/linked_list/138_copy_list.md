@@ -3,7 +3,7 @@ tag: code_problem
 difficulty: medium
 time_elapsed: 1
 created: 2025-04-05T12:22
-updated: 2025-12-14T11:49
+updated: 2026-01-10T12:56
 ---
 
 # 138 - Copy List with Random Pointer

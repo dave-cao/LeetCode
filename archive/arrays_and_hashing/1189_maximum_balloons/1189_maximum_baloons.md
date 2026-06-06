@@ -3,7 +3,7 @@ tag: code_problem
 difficulty: easy
 time_elapsed: 16
 created: 2023-12-31T16:04
-updated: 2025-12-14T11:49
+updated: 2026-01-10T12:56
 ---
 
 # 1189 - Maximum Number of Balloons

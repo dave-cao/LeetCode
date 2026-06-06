@@ -4,7 +4,7 @@ time_elapsed: 13
 difficulty: easy
 process: better_way_to_do_this
 created: 2023-12-25T19:01
-updated: 2025-12-14T11:49
+updated: 2026-01-10T12:56
 ---
 
 # 303 - Range Sum Query - Immutable

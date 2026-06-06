@@ -3,7 +3,7 @@ tag: code_problem
 time_elapsed: 42
 difficulty: easy
 created: 2024-01-11T19:46
-updated: 2025-12-14T11:49
+updated: 2026-01-10T12:56
 ---
 
 # 3 - Longest Substring Without Repeating Characters

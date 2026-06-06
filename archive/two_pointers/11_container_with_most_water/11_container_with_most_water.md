@@ -3,7 +3,7 @@ tag: code_problem
 time_elapsed: 17
 difficulty: medium
 created: 2023-12-17T23:15
-updated: 2025-12-14T11:49
+updated: 2026-01-10T12:56
 ---
 # 11 - Container With Most Water
 

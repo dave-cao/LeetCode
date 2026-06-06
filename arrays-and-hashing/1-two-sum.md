@@ -7,7 +7,7 @@ difficulty: easy
 category: arrays-and-hashing
 link: https://leetcode.com/problems/two-sum/description/
 created: 2025-12-17T00:42
-updated: 2025-12-17T00:42
+updated: 2026-01-10T12:56
 ---
 # 1. Two Sum
 

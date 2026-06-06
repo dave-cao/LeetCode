@@ -3,7 +3,7 @@ tag: code_problem
 difficulty: medium
 time_elapsed: 27
 created: 2024-01-17T18:21
-updated: 2025-12-14T11:49
+updated: 2026-01-10T12:56
 ---
 
 # 153 - Find Minimum in Rotated Sorted Array

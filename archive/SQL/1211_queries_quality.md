@@ -1,6 +1,6 @@
 ---
 created: 2025-04-05T12:22
-updated: 2025-12-14T11:49
+updated: 2026-01-10T12:56
 ---
 ```sql
 SELECT query_name, ROUND(SUM(rating / position) / COUNT(query_name), 2) AS quality, 

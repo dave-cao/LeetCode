@@ -3,7 +3,7 @@ tag: code_problem
 difficulty: medium
 time_elapsed: 75
 created: 2024-01-13T18:16
-updated: 2025-12-14T11:49
+updated: 2026-01-10T12:56
 ---
 
 # 22 - Generate Parentheses
