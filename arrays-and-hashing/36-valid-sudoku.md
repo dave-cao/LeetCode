@@ -7,6 +7,8 @@ difficulty: easy
 category: arrays-and-hashing
 needed_help: false
 link: https://leetcode.com/problems/valid-sudoku/
+created: 2026-09-16T20:27
+updated: 2026-09-16T20:27
 ---
 
 # 36. Valid Sudoku
